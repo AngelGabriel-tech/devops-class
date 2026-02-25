@@ -1,3 +1,7 @@
 DevOps is powerful!
-These are my new changes
+
+This is my new change
+
+This is my new change
+
 Git makes collaboration easy.
